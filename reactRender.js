@@ -1,7 +1,9 @@
+/**
+ * React 渲染 demo
+ */
+
 /* eslint-disable react/destructuring-assignment */
-import React, {
-  Component, useEffect, useState, PureComponent
-} from 'react';
+import React, { Component, useEffect, useState, PureComponent } from 'react';
 
 // class Child extends PureComponent {
 //   render() {
